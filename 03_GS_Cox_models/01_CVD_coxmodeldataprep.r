@@ -1,5 +1,5 @@
 #Pollution - CVD
-#Code from: /Cluster_Filespace/Marioni_Group/Josie/Proteins/scripts/pollution_analysis/cox_models/CVD/01_coxph_dataprep_CVD_basicdf.r
+#Code from: CVD/01_coxph_dataprep_CVD_basicdf.r
 #Simplified to contain only the data-prep used for the included analysis
 
 #. 1. Set-up incident diseases of interest - generate yes(1) or no(0) column (CVD: diagnosis or diagnosis at death)
